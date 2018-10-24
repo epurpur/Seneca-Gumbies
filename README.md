@@ -4,4 +4,6 @@ Seneca Gumbies - Climbing game which simulates a day of climbing at Seneca Rocks
 To play
 -download or clone repository
 -run "seneca_gumbies_main.py" in SenecaGumbiesCode folder
-  -this connects to other modules and data sources (csv file with route information).  
+
+-I didn't do much in the way of error handling so the inputs are case sensitive, be aware of that!
+ 
