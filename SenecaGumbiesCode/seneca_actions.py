@@ -6,16 +6,6 @@ Created on Sat Oct 20 11:37:43 2018
 @author: ep9k
 """
 
-
-
-
-
-#######Add eat food or drink?  Keep track of energy level?
-
-
-
-
-
 import seneca_gumbies_main    #main module
 import csv
 import time
