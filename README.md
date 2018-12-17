@@ -7,5 +7,7 @@ To play
 
 -I didn't do much in the way of error handling so the inputs are case sensitive, be aware of that!
 
+I'll build in more functionality over time (maybe)
+
 Enjoy!
  
